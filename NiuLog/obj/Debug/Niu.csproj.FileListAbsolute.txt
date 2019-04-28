@@ -1,0 +1,5 @@
+D:\个人项目\日志类\NiuLog\obj\Debug\Niu.csprojResolveAssemblyReference.cache
+D:\个人项目\日志类\NiuLog\obj\Debug\NiuLog.dll
+D:\个人项目\日志类\NiuLog\obj\Debug\NiuLog.pdb
+D:\个人项目\日志类\NiuLog\bin\Debug\NiuLog.dll
+D:\个人项目\日志类\NiuLog\bin\Debug\NiuLog.pdb
